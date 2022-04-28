@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+p img{
+  width:750px;
+  margin: 5px auto;
+}
+pre{
+  background-color: rgba(0, 0, 0, 0.548);
+  width: 760px;
+  padding: 6px 18px;
+}
+code{
+  width: 100%;
+  color: white;
+  scroll-behavior: smooth;
+  overflow-x: scroll;
+  
+}

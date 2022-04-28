@@ -15,6 +15,10 @@
   },
   "devDependencies": {
     "eslint": "7.32.0",
-    "eslint-config-next": "12.1.5"
+    "eslint-config-next": "12.1.5",
+    "gray-matter": "^4.0.3",
+    "marked": "^4.0.14",
+    "next-seo": "^5.4.0",
+    "next-sitemap": "^2.5.20"
   }
 }
