@@ -3,7 +3,7 @@ import { slugify } from '../utils'
 
 export default function Post({ post }) {
 
-  const date = new Date(post.frontmatter.date)
+  const date = new Date(post.frontmatter?.date)
   return (
     <div className="card mb-4">
       <a href={`/blog/${post.slug}`} > <img className="card-img-top" src={post.frontmatter.image} alt="..." /></a>

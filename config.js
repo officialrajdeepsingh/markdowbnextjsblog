@@ -1,3 +1,3 @@
-const SITE_URL= 'http://localhost:3000/'
+const SITE_URL= 'https://markdowbnextjsblog.vercel.app/'
 
 export default SITE_URL
