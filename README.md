@@ -19,3 +19,6 @@ https://medium.com/nextjs/build-the-seo-and-sitemap-functionality-in-a-static-bl
 
 ## Note 
 change your ` localhost:3000 ` url in `./config.js` url. 
+
+## HTML Template
+https://startbootstrap.com/template/blog-home
